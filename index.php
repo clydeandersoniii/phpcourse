@@ -13,7 +13,7 @@
         <h1>
             <?php
                 //Print hello world
-                echo "Hello World!</br>";
+                echo "Intro to PHP Course through Udemy!</br>";
                 $firstName = "Clyde";
                 $favNumber = 31;
 
